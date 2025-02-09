@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/galanta/introduction/","tags":["gardenEntry"],"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-09T21:26:55.154+00:00"}
+{"dg-publish":true,"permalink":"/galanta/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-09T21:50:05.918+00:00"}
 ---
 
 # Introduction
