@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-10T00:00:38.377+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-10T00:01:50.277+00:00"}
 ---
 
 # Introduction
@@ -12,7 +12,7 @@ The first section, the Hub, will be filled with information about the game, such
 The second section, Galánta, will focused on the narrative universe. This will be the largest section and will include geographical locations of the planet, the different planes, and the NPCs of the various locations.
 
 ```ad-info
-title: Introduction to Galánta
+title: Introduction to the Campaign (Will be repeated in Session 1)
 collapse: open
 
 This is Makoni, one continent in this world named Galánta. Scattered apart by tectonic drift and marred landscapes, the Kingdoms of Makoni have been slowly simmering down from the Schism; a deadly war between the Kingdom of Tír Dhúchais, found in the northern region of Keysal, and Arkhibiil, found in the desert land of Balter. Though the beheading of former Prime Speaker Ymir Dhúchais has signalled the end of the war, tensions are still high between the kingdoms that comprise Makoni, especially with the introduction of the newest Kingdom of Árferð, as well as the separation of the Fulgaric's Deterrent, a collection of city-states that fought against the despotic Ymir and separated itself from the Tír Dhúchais. With cooperation from the leader of Arkhibiil, Sultan Corvus, reparations have gone underway but are they enough to sway the underlying fear of inevitability that lay hidden under the subconscious of every mind?
