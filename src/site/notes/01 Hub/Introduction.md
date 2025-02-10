@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-10T00:01:50.277+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-10T00:03:08.489+00:00"}
 ---
 
 # Introduction
 This is a hub for information based around the world of Galánta. Though it will continuously be filled with information as the story progresses, this site will initially only be filled with information that the common person would know and will not include the more secretive aspects of the world that only certain players may be privy to.
-#### None of this is mandatory to read if you do not wish to. You will not have to read every single page of this board and recite it back, this is simply to have a player facing board for me to know what information you have and for you to not lose information that may get lost in notes. I welcome contributions to this site, but again it is not mandatory.
 
+---
+##### None of this is mandatory to read if you do not wish to. You will not have to read every single page of this board and recite it back, this is simply to have a player facing board for me to know what information you have and for you to not lose information that may get lost in notes. I welcome contributions to this site, but again it is not mandatory.
+---
 
 The first section, the Hub, will be filled with information about the game, such as information on the [[Player Characters\|Player Characters]], Consent Sheets (and other documents discussing player input). This will also include the Premise. This section will also include recently introduced NPCs, though they will be moved into the second section.
 
