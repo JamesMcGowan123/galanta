@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/player-characters/example-character-parisa-hafaii/","tags":["Player"],"created":"2024-08-13T22:06:55.058+01:00","updated":"2025-02-10T01:14:34.536+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/player-characters/example-character-parisa-hafaii/","tags":["Player"],"created":"2024-08-13T22:06:55.058+01:00","updated":"2025-02-10T02:46:58.091+00:00"}
 ---
 
 #Player 
@@ -30,7 +30,11 @@ Weight: 62 kg (137 lbs)
 - Gather enough funds to buy rank within the Summer Court and marry Deirbhile
 
 ### Appearance:
-![Parisa Avatar.png|left](/img/user/z_attachments/Parisa%20Avatar.png) Parisa is a boar-like shifter with chestnut eyes, their porcine fangs jutting out the sides of their mouth and curving back towards the back of their skull, poking underneath his off-white hair. Their clothes, a deep green (#092E0C) layered leather, is buckled by a simple belt that portrays different fungi of a lilac rose colouring at equal distances from one another. This design carries on underneath two sheathed short swords, both of which have a root brew (#2E0C04) brown handle with a blue (#55F2DA) cross-guard that curve to represent wind. On each, the pommel is a craftsman brown (#AD9278) hand holding a deep black orb. The hand seems to be missing a finger, the same finger on each side, its ring finger. The cloak, a blacklist-like (#220D2E) colour , is clasped by two golden birch leaves with a lindworm green (#1E2E09) undertone.
+![Parisa Avatar.png|left](/img/user/z_attachments/Parisa%20Avatar.png) 
+
+Parisa is a boar-like shifter with chestnut eyes, their porcine fangs jutting out the sides of their mouth and curving back towards the back of their skull, poking underneath his off-white hair. Their clothes, a deep green (#092E0C) layered leather, is buckled by a simple belt that portrays different fungi of a lilac rose colouring at equal distances from one another. This design carries on underneath two sheathed short swords, both of which have a root brew (#2E0C04) brown handle with a blue (#55F2DA) cross-guard that curve to represent wind. On each, the pommel is a craftsman brown (#AD9278) hand holding a deep black orb. The hand seems to be missing a finger, the same finger on each side, its ring finger. The cloak, a blacklist-like (#220D2E) colour , is clasped by two golden birch leaves with a lindworm green (#1E2E09) undertone.
+
+Art by the fantastic Armadoodle 
 ### Personality:
 #### Traits:
 - “I long for the accommodations and sustenance I became accustomed to as a hostage of the Fair Folk.”
