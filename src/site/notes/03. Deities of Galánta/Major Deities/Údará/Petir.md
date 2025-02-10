@@ -15,4 +15,4 @@ Those grieving the dead commonly find solace in the first rain after a passing. 
 
 They are the patron of poets, diplomats, and the weary. It is said that Petir gave the canines of [[Galánta\|Galánta]] the sense to detect sadness in the hearts of people so that they could come to comfort them.
 ## Appearance
-![[Petir, The Grey Lady.png\|Petir, The Grey Lady.png]]
+![Petir, The Grey Lady.png](/img/user/z_attachments/Petir,%20The%20Grey%20Lady.png)

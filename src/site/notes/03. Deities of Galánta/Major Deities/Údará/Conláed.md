@@ -27,4 +27,4 @@ Symbols:
 - Geothermal activity (hot springs, volcanoes)
 - Fire irons and brands
 ## Appearance
-![[Conlaed.png\|Conlaed.png]]
+![Conlaed.png](/img/user/z_attachments/Conlaed.png)
