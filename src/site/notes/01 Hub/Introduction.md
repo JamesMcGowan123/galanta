@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-11T02:39:08.337+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-11T02:41:44.747+00:00"}
 ---
 
 # Introduction
@@ -11,7 +11,7 @@ This is a hub for information based around the world of Galánta. Though it will
 
 The first section, the Hub, will be filled with information about the game, such as information on the [[01 Hub/Player Character Background Information/Player Character Background Information\|Player Character Background Information]], Consent Sheets (and other documents discussing player input). This will also include the Premise. This section will also include recently introduced NPCs, though they will be moved into the second section.
 
-The second section, Galánta, will focused on the narrative universe. This will be the largest section and will include geographical locations of the planet, the different planes, and the NPCs of the various locations. This will also include the information overview of the [[02. Galánta/Player Characters/Player Characters\|Player Characters]], as opposed to the [[01 Hub/Player Character Background Information/Player Character Background Information\|Player Character Background Information]] which is dedicated
+The second section, Galánta, will focused on the narrative universe. This will be the largest section and will include geographical locations of the planet, the different planes, and the NPCs of the various locations. This will also include the information overview of the [[02. Galánta/Player Characters/Player Characters\|Player Characters]], as opposed to the [[01 Hub/Player Character Background Information/Player Character Background Information\|Player Character Background Information]].
 
 ```ad-info
 title: Introduction to the Campaign (Will be repeated in Session 1)
