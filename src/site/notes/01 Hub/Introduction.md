@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-10T00:03:08.489+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/introduction/","tags":["gardenEntry"],"dgShowToc":true,"created":"2025-02-09T21:05:06.058+00:00","updated":"2025-02-10T21:07:17.763+00:00"}
 ---
 
 # Introduction
@@ -9,9 +9,9 @@ This is a hub for information based around the world of Galánta. Though it will
 ##### None of this is mandatory to read if you do not wish to. You will not have to read every single page of this board and recite it back, this is simply to have a player facing board for me to know what information you have and for you to not lose information that may get lost in notes. I welcome contributions to this site, but again it is not mandatory.
 ---
 
-The first section, the Hub, will be filled with information about the game, such as information on the [[01 Hub/Player Characters/Player Characters\|Player Characters]], Consent Sheets (and other documents discussing player input). This will also include the Premise. This section will also include recently introduced NPCs, though they will be moved into the second section.
+The first section, the Hub, will be filled with information about the game, such as information on the [[01 Hub/Player Character Background Information/Player Character Background Information\|Player Character Background Information]], Consent Sheets (and other documents discussing player input). This will also include the Premise. This section will also include recently introduced NPCs, though they will be moved into the second section.
 
-The second section, Galánta, will focused on the narrative universe. This will be the largest section and will include geographical locations of the planet, the different planes, and the NPCs of the various locations.
+The second section, Galánta, will focused on the narrative universe. This will be the largest section and will include geographical locations of the planet, the different planes, and the NPCs of the various locations. This will also include the information overview of the [[02. Galánta/Player Character/Player Character\|Player Character]], as opposed to the [[01 Hub/Player Character Background Information/Player Character Background Information\|Player Character Background Information]] which is dedicated
 
 ```ad-info
 title: Introduction to the Campaign (Will be repeated in Session 1)
