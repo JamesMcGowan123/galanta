@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-galanta/player-characters/player-characters/","dgShowToc":true,"created":"2025-02-10T21:07:18.146+00:00","updated":"2025-02-11T02:37:53.784+00:00"}
+{"dg-publish":true,"permalink":"/02-galanta/player-characters/player-characters/","created":"2025-02-10T21:07:18.146+00:00","updated":"2025-02-11T02:42:37.948+00:00"}
 ---
 
 The known information on the player characters will be placed here and updated as regularly as I can. This is a section I do encourage people try and contribute to for their own characters, but once again it is not mandatory. Each page will have a section to allow the players (you) to add notes on your or your characters' thoughts on that character, labelled under Other Player's Notes.
