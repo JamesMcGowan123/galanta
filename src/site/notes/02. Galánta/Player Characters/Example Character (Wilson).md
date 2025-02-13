@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-galanta/player-characters/example-character-wilson/","created":"2025-02-11T02:19:17.180+00:00","updated":"2025-02-11T02:34:42.110+00:00"}
+{"dg-publish":true,"permalink":"/02-galanta/player-characters/example-character-wilson/","created":"2025-02-11T02:19:17.180+00:00","updated":"2025-02-13T21:40:07.961+00:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 - Character Age: ??? (he has no clue)
 - Class: Barbarian 2
 - Species: [Grung](https://dnd5e.wikidot.com/lineage:grung)
+- Height: 5'2
 - Gender Identification/Pronouns: He/Him
 - Character Sexuality?: Asexual
 
