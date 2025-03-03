@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-deities-of-galanta/minor-deities/rofi/","created":"2025-02-09T22:47:11.893+00:00","updated":"2025-02-09T23:31:40.009+00:00"}
+{"dg-publish":true,"permalink":"/03-deities-of-galanta/minor-deities/rofi/","created":"2025-02-09T22:47:11.893+00:00","updated":"2025-03-03T01:05:07.891+00:00"}
 ---
 
 #Minor_Deity 
 *The Ferryman*
 
-As the body fails the spirit, what better guide than that of the impartial adjudicator, blind to all that do wrong by the [[03. Deities of Galánta/Major Deities/Údará/Údará\|Údará]] and the people of [[Galánta\|Galánta]]. Only those deemed good by their merits and their actions are recognised by Rofi, and are chartered across the sea of stars to their place besides [[03. Deities of Galánta/Major Deities/Údará/Providence\|Providence]] in *Galánta's Rusted Soldiers*.
+As the body fails the spirit, what better guide than that of the impartial adjudicator, blind to all that do wrong by the [[03. Deities of Galánta/Major Deities/Údará/Údará\|Údará]] and the people of [[02. Galánta/02. Galánta\|Galánta]]. Only those deemed good by their merits and their actions are recognised by Rofi, and are chartered across the sea of stars to their place besides [[03. Deities of Galánta/Major Deities/Údará/Providence\|Providence]] in *Galánta's Rusted Soldiers*.
 
 Rofi rules over the transference of the soul to the after-life, but not over the domain of death itself. In fact, Rofi is simply the deity of inevitability, and the inescapability of punishment, and is thus used to represent Punishment. This inevitability also lends to its domain over balance.
 
