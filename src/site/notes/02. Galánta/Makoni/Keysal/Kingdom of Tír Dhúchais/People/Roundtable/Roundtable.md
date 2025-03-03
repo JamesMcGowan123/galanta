@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-galanta/makoni/keysal/kingdom-of-tir-dhuchais/people/roundtable/roundtable/","tags":["Roundtable"],"created":"2025-03-03T01:16:26.537+00:00","updated":"2025-03-03T01:52:23.468+00:00"}
+{"dg-publish":true,"permalink":"/02-galanta/makoni/keysal/kingdom-of-tir-dhuchais/people/roundtable/roundtable/","tags":["Roundtable"],"created":"2025-03-03T01:16:26.537+00:00","updated":"2025-03-03T01:54:29.735+00:00"}
 ---
 
 The Roundtable is the current council of the [[02. Galánta/Makoni/Keysal/Kingdom of Tír Dhúchais/Kingdom of Tír Dhúchais\|Kingdom of Tír Dhúchais]]. Made up of incredible individuals, the Roundtable were hand chosen by [[02. Galánta/Makoni/Keysal/Kingdom of Tír Dhúchais/People/Roundtable/Aria Osric Dhúchais\|Aria Osric Dhúchais]] as a means of preventing further corruption from the ruling monarch, though some are holdovers from Ymir's reign.
+
+This will be updated with more information as the time passes and the players learn more about them.
 
 [[02. Galánta/Makoni/Keysal/Kingdom of Tír Dhúchais/People/Roundtable/Tiddlywink\|Tiddlywink]]
 [[02. Galánta/Makoni/Keysal/Kingdom of Tír Dhúchais/People/Roundtable/Aria Osric Dhúchais\|Aria Osric Dhúchais]]
