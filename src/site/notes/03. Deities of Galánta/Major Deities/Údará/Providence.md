@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/03-deities-of-galanta/major-deities/udara/providence/","tags":["Deity","Major_Deity","Udara"],"created":"2025-02-09T22:47:11.880+00:00","updated":"2025-02-09T23:31:15.695+00:00"}
+{"dg-publish":true,"permalink":"/03-deities-of-galanta/major-deities/udara/providence/","tags":["Deity","Major_Deity","Udara"],"created":"2025-02-09T22:47:11.880+00:00","updated":"2025-03-04T02:55:18.486+00:00"}
 ---
 
 *The Stalwart Defender*
 
-	“Why must we fight?! Why must you pain me so, to force your head down below the ants and vermin of the world, when we are made to look up?!”
-	“...” Providence’s words shake through the earth, ripples of sand dancing to their voice.
-	Limund’s sword picks up once more in response to his brother’s answer, before the betrayer says, “... You speak as a child dreams.”
+“Why must we fight?! Why must you pain me so, to force your head down below the ants and vermin of the world, when we are made to look up?!”
+“...” Providence’s words shake through the earth, ripples of sand dancing to their voice.
+Decathect’s sword picks up once more in response to his brother’s answer, before the betrayer says, “... You speak as a child dreams.”
 
 - An excerpt from the Clashes, depicting a conversation between Limund and Providence, originally released in 231 PI. This quote, along with its page, remain one of the only pages fully recoverable in ancient Drayocht.
 - Scholars and zealots believe Providence to have given an answer defending mankind, [[03. Deities of Galánta/Major Deities/Decathect\|Decathect]]'s question referring to us as “ants and vermin'' (this is debated to mean literally, that Providence uses his strength to protect any and all creatures of [[Galánta\|Galánta]], rather than just humanity). Providence’s silence may refer to the fact that we cannot interpret his words, or properly convey them. It is also possible that Providence as a concept disgusts Limund, the former representing the strength and tenacity of the “ants and vermin'' he seems to despise.
