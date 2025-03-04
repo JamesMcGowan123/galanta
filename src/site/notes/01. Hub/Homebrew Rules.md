@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/homebrew-rules/","tags":["Rules"],"dgShowFileTree":true,"created":"2025-03-04T03:07:47.514+00:00","updated":"2025-03-04T03:12:00.050+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/homebrew-rules/","tags":["Rules"],"dgShowFileTree":true,"created":"2025-03-04T03:07:47.514+00:00","updated":"2025-03-04T20:01:12.808+00:00"}
 ---
 
 - Instead of being able to cast only a cantrip in addition to a levelled spell, you can cast a spell of 3rd or higher and a spell of 2nd or lower on the same turn.
+
+[[Worlds Beyond Number - Witch Class v3.pdf|Witch]]
 
 - Drinking a potion takes a bonus action unless you are using it to heal another person, in which case it’s an action.
 
