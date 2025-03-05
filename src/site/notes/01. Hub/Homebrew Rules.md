@@ -1,22 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/homebrew-rules/","tags":["Rules"],"dgShowFileTree":true,"created":"2025-03-04T03:07:47.514+00:00","updated":"2025-03-04T20:03:57.265+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/homebrew-rules/","tags":["Rules"],"dgShowFileTree":true,"created":"2025-03-04T03:07:47.514+00:00","updated":"2025-03-05T01:17:29.840+00:00"}
 ---
 
 - Instead of being able to cast only a cantrip in addition to a levelled spell, you can cast a spell of 3rd or higher and a spell of 2nd or lower on the same turn.
 
-![[Worlds Beyond Number - Witch Class v3.pdf]]
-
 - Drinking a potion takes a bonus action unless you are using it to heal another person, in which case it’s an action.
 
-- When levelling up -- if you roll a 1 for HP, reroll. 
+- When levelling up -- if you roll a 1 for HP, reroll. You must take the new roll.
 
 - Skill checks during combat are free to attempt, but may require your action or bonus action at the DM's discretion, should you succeed.
 
 - If you roll worse than your bonus in a passive skill (perception, insight, investigation) you can use your passive skill instead at the cost of a higher DC.
 
 - For people that do not use distinct accents or voices to differentiate what is in character and what isn’t, do your best to make it clear whether you will be speaking in character.
-- “_____ will say…” 
-- Statements in character voice are, unless specified, in character.
+	- “_____ will say…” 
+	- Statements in character voice are, unless specified, in character.
 
 - When a character is resurrected, [roll from this table.](https://docs.google.com/spreadsheets/d/1mm1JGkPzps6BVlMxEaUsWrH72NQJNuAyvlfQCRKRwSQ/edit#gid=0) 
 - You may be asked to use another base modifier (i.e. strength) for a skill check (i.e. persuasion or intimidation). You would simply add your proficiency modifier (if you are proficient in the skill check) to the new base modifier. You can also ask if you can switch the base modifier, and depending on the task it may be allowed.
