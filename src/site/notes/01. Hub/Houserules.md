@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-hub/houserules/","tags":["Rules"],"dgShowFileTree":true,"created":"2025-03-05T01:10:34.067+00:00","updated":"2025-03-05T03:38:45.049+00:00"}
+{"dg-publish":true,"permalink":"/01-hub/houserules/","tags":["Rules"],"dgShowFileTree":true,"created":"2025-03-05T01:10:34.067+00:00","updated":"2025-03-05T16:55:40.628+00:00"}
 ---
 
 ## Ability Checks
@@ -128,7 +128,7 @@ Upon a successful resurrection check, the player’s soul (should it be willing)
 
 Only the strongest of magical incantations can bypass this resurrection challenge, in the form of the True Resurrection or Wish spells. These spells can also restore a character to life who was lost due to a failed resurrection ritual.
 
-If a spell with a casting time of 1 action is used to attempt to restore life (via the Revivify spell or similar effects), no contribution skill checks are allowed. The character casting the spell makes a Rapid Resurrection check, rolling a d20 and adding their spellcasting ability modifier. The DC increases by 1 for each previous successful resurrection the character has undergone. On a failure, the character’s soul is not lost, but the resurrection fails and increases any future Resurrection checks’ DC by 1. No further attempts can be made to restore this character to life until a resurrection spell with a casting time higher than 1 action is attempted.
+If a spell with a casting time of 1 action is used to attempt to restore life (via the Revivify spell or similar effects), no check is required, but 
 
 ### Poisoned Condition
 The Poisoned Condition gives Disadvantage to Death Saving Throws.
